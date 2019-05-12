@@ -11,6 +11,8 @@ This python library is for UHF RFID Reader (tested for WRD-130-U1)
 
  ***Installation***
 
-- Enter in Terminal:    pip install pyserial
+- Enter in Terminal:    
+   pip install pyserial
 
-- run main.py:   python3 main.py
+- run main.py:   
+   python3 main.py
